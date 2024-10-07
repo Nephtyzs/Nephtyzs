@@ -19,3 +19,9 @@ Nice to meet you! And welcome to my profile!
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 </div><br/>
+
+## My Top Languages 📚
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nephtyzs&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/Nephtyzs?tab=repositories)
+
+## My stats ☄
+[![Stats](https://github-readme-stats.vercel.app/api?username=Nephtyzs&show_icons=true&theme=vue)](https://github.com/Nephtyzs)
