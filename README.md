@@ -5,7 +5,7 @@ I'm just starting, coding, and studying!
 Nice to meet you! And welcome to my profile!
 ✨⭐
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhaianeall/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhaiane-allebrandt-026a522b4/)
 [![BeeCrowd](https://img.shields.io/badge/-BeeCrowd-FFEE00?style=for-the-badge&logo=BeeCrowd&logoColor=black)](https://judge.beecrowd.com/pt/profile/1034327)
 
